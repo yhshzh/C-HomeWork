@@ -1,0 +1,4 @@
+﻿  源.c
+D:\我的c语言学习\t64\t64\源.c(17,9): warning C4013: “_strupr”未定义；假设外部返回 int
+D:\我的c语言学习\t64\t64\源.c(24,28): warning C4013: “strlen”未定义；假设外部返回 int
+  t64.vcxproj -> D:\我的c语言学习\t64\Debug\t64.exe

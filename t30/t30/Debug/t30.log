@@ -1,0 +1,4 @@
+﻿  源.c
+D:\我的c语言学习\t30\t30\源.c(12,20): warning C4013: “test”未定义；假设外部返回 int
+D:\我的c语言学习\t30\t30\源.c(7,19): warning C4101: “day”: 未引用的局部变量
+  t30.vcxproj -> D:\我的c语言学习\t30\Debug\t30.exe

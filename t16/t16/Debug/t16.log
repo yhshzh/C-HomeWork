@@ -1,0 +1,4 @@
+﻿  t16.c
+D:\我的c语言学习\t16\t16\t16.c(14,21): warning C4244: “函数”: 从“__int64”转换到“double”，可能丢失数据
+D:\我的c语言学习\t16\t16\t16.c(14,40): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  t16.vcxproj -> D:\我的c语言学习\t16\Debug\t16.exe
